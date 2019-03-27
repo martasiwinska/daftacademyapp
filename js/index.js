@@ -1,3 +1,3 @@
-import {default as Loffki} from './script';
+import {default as showText} from './script';
 
-Loffki();
+showText();
